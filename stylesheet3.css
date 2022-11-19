@@ -1,0 +1,13 @@
+body{
+    background-image: url("image/bb.jpeg");
+    background-position: center;
+    background-size: cover;
+    font-size: 200px;
+    color: orangered;
+    font: 100;
+    border-left: 600px;
+}
+i{
+    color:yellow;
+    font-size: 40px;
+}
